@@ -1,0 +1,3 @@
+/home/stefan/Dokumente/OTH/Semester 1/PG1/Uebung6/Aufgabe 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stefan/Dokumente/OTH/Semester 1/PG1/Uebung6/Aufgabe 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stefan/Dokumente/OTH/Semester 1/PG1/Uebung6/Aufgabe 1/cmake-build-debug/CMakeFiles/Aufgabe_1.dir
