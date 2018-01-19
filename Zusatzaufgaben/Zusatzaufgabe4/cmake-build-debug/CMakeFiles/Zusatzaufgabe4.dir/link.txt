@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Zusatzaufgabe4.dir/main.c.o  -o Zusatzaufgabe4 
