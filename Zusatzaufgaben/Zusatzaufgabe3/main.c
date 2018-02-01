@@ -39,16 +39,12 @@ void main() {
                     PrintMiddle();
                 }
             }
-
             printf("\n");
             c = c + 2;
-
         }
-
-
     }
     else{
-        printf("The value of is was not valid.");
+        printf("The value of x was not valid.");
     }
     return;
 }
